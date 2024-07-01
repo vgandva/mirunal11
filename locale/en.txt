@@ -1,0 +1,32 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_6602EA2B_6CA8_793C_41C3_D84F3555E86F.label = Kitchen
+panorama_609C269C_6CA8_A91B_41B0_23335322E451.label = bed room 4
+panorama_6605F21B_6CA8_E91D_41BD_990B6EC0CAAA.label = bed room2
+panorama_6603FE1E_6CA8_F917_41C6_2DCD0001BBF2.label = dining 1
+panorama_66032572_6CA8_AB2F_41BE_5A7F21CFC2F1.label = garden
+panorama_6602F0F8_6CA8_A91B_41D8_9554E00DEF2E.label = gym
+panorama_6602FE0A_6CA8_58FF_41D9_28524986E6E2.label = hall
+panorama_6602E605_6CA8_68F5_41CE_336AFE205A00.label = living room 2
+panorama_660151DE_6CAB_AB17_41C0_B44A3AD9DFED.label = living room1
+panorama_66014D64_6CAB_BB2B_41A6_00D1176A3CC1.label = master bed room 1
+panorama_6601690B_6CAB_D8FD_41D2_EC8A352EC425.label = master bedroom 3
+panorama_6601A459_6CAB_E91D_4191_26813B08A659.label = movie theater
+panorama_660180CF_6CAB_E975_41D1_CC807D09CFAF.label = wardrobe1
+panorama_66019CC9_6CAB_D97D_4170_527121324CFF.label = wardrobe2
+panorama_6601E916_6CAB_BB17_41B4_8F1A797875B6.label = wardrobe22
+
+## Skin
+
+### Label
+Label_75538083_6CE8_69ED_41CD_4B910DCC5C31.text = NATHALLI BUILDING DESIGN AND RENDERING STUDIO
+
+## Tour
+
+### Description
+
+### Title
+tour.name = mirunal
